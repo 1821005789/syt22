@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style4.css" />
+    <link rel="stylesheet" href="style3.css" />
+    <link href="default.css" rel="stylesheet" type="text/css" media="all" />
+    <title></title>
+  </head>
+  <body>
+    <nav class="nav">
+      <div class="container4">
+        <h1 class="logo"><a href="/index.html">Luca’s Loaves</a></h1>
+        <ul>
+          <li><a href="index.php" accesskey="1" title="">Home</a></li>
+          <li><a href="aboutus.php" accesskey="2" title="">About US</a></li>
+          <li><a href="upload.php" accesskey="3" title="">Careers </a></li>
+          <li><a href="orderonline.php" accesskey="4" title="">Order online </a></li>
+          <li><a href="contactus.php" accesskey="5" title="">Contact Us</a></li>
+          <li><a href="register.php" class="current" accesskey="6" title="">Register</a></li>
+        </ul>
+        <header>
+          <form id="form">
+            <input type="text" id="search" class="search" placeholder="Search">
+          </form>
+        </header>
+      </div>
+    </nav>
+
+    <div class="hero">
+      <div class="container4">
+        
+        <h1>Welcome to Luca’s Loaves</h1>
+        <h1>NICE & SIMPLE</h1>
+        <h3>We’re committed to delighting 
+					that’s why all of our bread is made from scratch, and baked fresh every day.</n>
+				</h3>
+				
+      </div>
+    </div>
+
+	<div class="wrapper">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <div align = "center">
+                    <h2 class="mt-5">Registration successful</h2>
+                    <a href="register.php" >Back to register</a>
+                    </div>   
+                </div>
+            </div>        
+        </div>
+    </div>
+    
+    <footer class="footer2">  
+        The creator of this website is IT20_1 Hangzhou Qiandao Lake
+          </footer>
+	
+ 
+ 
+    <footer  class="footer2">  
+      Shelby 20IT1 （Shi Yutao）
+    </footer>
+ 
+  </body>
+
+
+</html>
